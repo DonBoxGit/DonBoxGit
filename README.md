@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Roman Y
-- 👀 I’m interested in programming SFML
-- 🌱 I’m currently learning C++ language
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C++ language, SFML, Arduino
 - 📫 How to reach me donbox@yandex.ru
 
 <!---
