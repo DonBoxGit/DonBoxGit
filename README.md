@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Roman Y
-- 🌱 I’m currently learning C++ language, Arduino, ESP8266
+- 🌱 I’m currently learning C++ language, Arduino, Atmega328p, ESP8266
 - 📫 email: donbox@yandex.ru
 
 <!---
